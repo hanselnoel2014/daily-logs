@@ -6,8 +6,8 @@ git commands to push the code:
 git pull
 git status
 git add .
-
-
+git commit -m "commit message"
+git push
 
 
 --------------------------------------------------
